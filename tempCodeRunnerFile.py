@@ -1,0 +1,1 @@
+button.bind_all('<Key>',press)

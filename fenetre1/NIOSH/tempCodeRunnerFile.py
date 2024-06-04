@@ -1,0 +1,1 @@
+window.iconbitmap("fenetre0mdp/fenetre1/NIOSH/logo.ico")
