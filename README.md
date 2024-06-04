@@ -1,5 +1,5 @@
 This Application is developed for measuring the ergonomic quality of work postures.
-To use it, you should add the .env file and select LOGIN and MDP then run the mdp.py file.
+To run it, you should add the .env file and select LOGIN and MDP then run the mdp.py file.
 
 This file should contain : 
 LOGIN=your_login
